@@ -1,0 +1,498 @@
+[2021-06-26T12:58:47.047Z] [org.springframework.boot.StartupInfoLogger] [restartedMain] [55] [INFO ] Starting DebSpringbootMsApplication using Java 11.0.11 on M5-L-HZ2CFW2 with PID 15536 (C:\UBS\debashish\git_repo\deb-springboot-ms-repo\deb-springboot-ms\build\classes\java\main started by debashish.barik in C:\UBS\CW\java-demo\project-reactor)
+[2021-06-26T12:58:47.047Z] [org.springframework.boot.SpringApplication] [restartedMain] [660] [INFO ] No active profile set, falling back to default profiles: default
+[2021-06-26T12:58:48.048Z] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [restartedMain] [108] [INFO ] Tomcat initialized with port(s): 8080 (http)
+[2021-06-26T12:58:48.048Z] [org.apache.juli.logging.DirectJDKLog] [restartedMain] [173] [INFO ] Initializing ProtocolHandler ["http-nio-8080"]
+[2021-06-26T12:58:48.048Z] [org.apache.juli.logging.DirectJDKLog] [restartedMain] [173] [INFO ] Starting service [Tomcat]
+[2021-06-26T12:58:48.048Z] [org.apache.juli.logging.DirectJDKLog] [restartedMain] [173] [INFO ] Starting Servlet engine: [Apache Tomcat/9.0.39]
+[2021-06-26T12:58:48.048Z] [com.deb.ms.DebSpringbootMsApplication] [main] [12] [INFO ] this is a info message
+[2021-06-26T12:58:48.048Z] [com.deb.ms.DebSpringbootMsApplication] [main] [13] [WARN ] this is a warn message
+[2021-06-26T12:58:48.048Z] [com.deb.ms.DebSpringbootMsApplication] [main] [14] [ERROR] this is a error message
+[2021-06-26T12:58:48.048Z] [org.apache.juli.logging.DirectJDKLog] [restartedMain] [173] [INFO ] Initializing Spring embedded WebApplicationContext
+[2021-06-26T12:58:48.048Z] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] [restartedMain] [289] [INFO ] Root WebApplicationContext: initialization completed in 1098 ms
+[2021-06-26T12:58:48.048Z] [org.springframework.scheduling.concurrent.ExecutorConfigurationSupport] [restartedMain] [181] [INFO ] Initializing ExecutorService 'applicationTaskExecutor'
+[2021-06-26T12:58:48.048Z] [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer] [restartedMain] [58] [INFO ] LiveReload server is running on port 35729
+[2021-06-26T12:58:48.048Z] [org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver] [restartedMain] [58] [INFO ] Exposing 2 endpoint(s) beneath base path '/actuator'
+[2021-06-26T12:58:48.048Z] [org.apache.juli.logging.DirectJDKLog] [restartedMain] [173] [INFO ] Starting ProtocolHandler ["http-nio-8080"]
+[2021-06-26T12:58:48.048Z] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [restartedMain] [220] [INFO ] Tomcat started on port(s): 8080 (http) with context path ''
+[2021-06-26T12:58:48.048Z] [org.springframework.boot.StartupInfoLogger] [restartedMain] [61] [INFO ] Started DebSpringbootMsApplication in 1.714 seconds (JVM running for 159.997)
+[2021-06-26T12:58:48.048Z] [org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener] [restartedMain] [63] [INFO ] Condition evaluation unchanged
+[2021-06-26T12:58:49.049Z] [com.deb.ms.DebSpringbootMsApplication] [restartedMain] [12] [INFO ] this is a info message
+[2021-06-26T12:58:49.049Z] [com.deb.ms.DebSpringbootMsApplication] [restartedMain] [13] [WARN ] this is a warn message
+[2021-06-26T12:58:49.049Z] [com.deb.ms.DebSpringbootMsApplication] [restartedMain] [14] [ERROR] this is a error message
+[2021-06-26T12:58:50.050Z] [org.springframework.boot.StartupInfoLogger] [restartedMain] [55] [INFO ] Starting DebSpringbootMsApplication using Java 11.0.11 on M5-L-HZ2CFW2 with PID 12800 (C:\UBS\debashish\git_repo\deb-springboot-ms-repo\deb-springboot-ms\build\classes\java\main started by debashish.barik in C:\UBS\CW\java-demo\project-reactor)
+[2021-06-26T12:58:50.050Z] [org.springframework.boot.SpringApplication] [restartedMain] [660] [INFO ] No active profile set, falling back to default profiles: default
+[2021-06-26T12:58:50.050Z] [org.springframework.boot.logging.DeferredLog] [restartedMain] [255] [INFO ] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[2021-06-26T12:58:50.050Z] [org.springframework.boot.logging.DeferredLog] [restartedMain] [255] [INFO ] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[2021-06-26T12:58:54.054Z] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [restartedMain] [108] [INFO ] Tomcat initialized with port(s): 8080 (http)
+[2021-06-26T12:58:54.054Z] [org.apache.juli.logging.DirectJDKLog] [restartedMain] [173] [INFO ] Initializing ProtocolHandler ["http-nio-8080"]
+[2021-06-26T12:58:54.054Z] [org.apache.juli.logging.DirectJDKLog] [restartedMain] [173] [INFO ] Starting service [Tomcat]
+[2021-06-26T12:58:54.054Z] [org.apache.juli.logging.DirectJDKLog] [restartedMain] [173] [INFO ] Starting Servlet engine: [Apache Tomcat/9.0.39]
+[2021-06-26T12:58:55.055Z] [org.apache.juli.logging.DirectJDKLog] [restartedMain] [173] [INFO ] Initializing Spring embedded WebApplicationContext
+[2021-06-26T12:58:55.055Z] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] [restartedMain] [289] [INFO ] Root WebApplicationContext: initialization completed in 4358 ms
+[2021-06-26T12:58:55.055Z] [org.springframework.scheduling.concurrent.ExecutorConfigurationSupport] [restartedMain] [181] [INFO ] Initializing ExecutorService 'applicationTaskExecutor'
+[2021-06-26T12:58:56.056Z] [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer] [restartedMain] [61] [WARN ] Unable to start LiveReload server
+[2021-06-26T12:58:56.056Z] [org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver] [restartedMain] [58] [INFO ] Exposing 2 endpoint(s) beneath base path '/actuator'
+[2021-06-26T12:58:56.056Z] [org.apache.juli.logging.DirectJDKLog] [restartedMain] [173] [INFO ] Starting ProtocolHandler ["http-nio-8080"]
+[2021-06-26T12:58:56.056Z] [org.springframework.context.support.AbstractApplicationContext] [restartedMain] [596] [WARN ] Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'; nested exception is org.springframework.boot.web.server.PortInUseException: Port 8080 is already in use
+[2021-06-26T12:58:56.056Z] [org.springframework.scheduling.concurrent.ExecutorConfigurationSupport] [restartedMain] [218] [INFO ] Shutting down ExecutorService 'applicationTaskExecutor'
+[2021-06-26T12:58:56.056Z] [org.apache.juli.logging.DirectJDKLog] [restartedMain] [173] [INFO ] Pausing ProtocolHandler ["http-nio-8080"]
+[2021-06-26T12:58:56.056Z] [org.apache.juli.logging.DirectJDKLog] [restartedMain] [173] [INFO ] Stopping service [Tomcat]
+[2021-06-26T12:58:56.056Z] [org.apache.juli.logging.DirectJDKLog] [restartedMain] [173] [INFO ] Stopping ProtocolHandler ["http-nio-8080"]
+[2021-06-26T12:58:56.056Z] [org.apache.juli.logging.DirectJDKLog] [restartedMain] [173] [INFO ] Destroying ProtocolHandler ["http-nio-8080"]
+[2021-06-26T12:58:56.056Z] [org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLoggingListener] [restartedMain] [136] [INFO ] 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+[2021-06-26T12:58:56.056Z] [org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter] [restartedMain] [40] [ERROR] 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8080 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8080 or configure this application to listen on another port.
+
+[2021/06/26T13:02:21.021Z] [com.deb.ms.DebSpringbootMsApplication] [main] [12] [INFO ] this is a info message
+[2021/06/26T13:02:21.021Z] [com.deb.ms.DebSpringbootMsApplication] [main] [13] [WARN ] this is a warn message
+[2021/06/26T13:02:21.021Z] [com.deb.ms.DebSpringbootMsApplication] [main] [14] [ERROR] this is a error message
+[2021/06/26T13:02:21.021Z] [com.deb.ms.DebSpringbootMsApplication] [restartedMain] [12] [INFO ] this is a info message
+[2021/06/26T13:02:21.021Z] [com.deb.ms.DebSpringbootMsApplication] [restartedMain] [13] [WARN ] this is a warn message
+[2021/06/26T13:02:21.021Z] [com.deb.ms.DebSpringbootMsApplication] [restartedMain] [14] [ERROR] this is a error message
+[2021/06/26T13:02:22.022Z] [org.springframework.boot.StartupInfoLogger] [restartedMain] [55] [INFO ] Starting DebSpringbootMsApplication using Java 11.0.11 on M5-L-HZ2CFW2 with PID 7536 (C:\UBS\debashish\git_repo\deb-springboot-ms-repo\deb-springboot-ms\build\classes\java\main started by debashish.barik in C:\UBS\CW\java-demo\project-reactor)
+[2021/06/26T13:02:22.022Z] [org.springframework.boot.SpringApplication] [restartedMain] [660] [INFO ] No active profile set, falling back to default profiles: default
+[2021/06/26T13:02:22.022Z] [org.springframework.boot.logging.DeferredLog] [restartedMain] [255] [INFO ] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[2021/06/26T13:02:22.022Z] [org.springframework.boot.logging.DeferredLog] [restartedMain] [255] [INFO ] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[2021/06/26T13:02:25.025Z] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [restartedMain] [108] [INFO ] Tomcat initialized with port(s): 8080 (http)
+[2021/06/26T13:02:25.025Z] [org.apache.juli.logging.DirectJDKLog] [restartedMain] [173] [INFO ] Initializing ProtocolHandler ["http-nio-8080"]
+[2021/06/26T13:02:25.025Z] [org.apache.juli.logging.DirectJDKLog] [restartedMain] [173] [INFO ] Starting service [Tomcat]
+[2021/06/26T13:02:25.025Z] [org.apache.juli.logging.DirectJDKLog] [restartedMain] [173] [INFO ] Starting Servlet engine: [Apache Tomcat/9.0.39]
+[2021/06/26T13:02:25.025Z] [org.apache.juli.logging.DirectJDKLog] [restartedMain] [173] [INFO ] Initializing Spring embedded WebApplicationContext
+[2021/06/26T13:02:25.025Z] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] [restartedMain] [289] [INFO ] Root WebApplicationContext: initialization completed in 2856 ms
+[2021/06/26T13:02:26.026Z] [org.springframework.scheduling.concurrent.ExecutorConfigurationSupport] [restartedMain] [181] [INFO ] Initializing ExecutorService 'applicationTaskExecutor'
+[2021/06/26T13:02:27.027Z] [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer] [restartedMain] [58] [INFO ] LiveReload server is running on port 35729
+[2021/06/26T13:02:27.027Z] [org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver] [restartedMain] [58] [INFO ] Exposing 2 endpoint(s) beneath base path '/actuator'
+[2021/06/26T13:02:27.027Z] [org.apache.juli.logging.DirectJDKLog] [restartedMain] [173] [INFO ] Starting ProtocolHandler ["http-nio-8080"]
+[2021/06/26T13:02:27.027Z] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [restartedMain] [220] [INFO ] Tomcat started on port(s): 8080 (http) with context path ''
+[2021/06/26T13:02:27.027Z] [org.springframework.boot.StartupInfoLogger] [restartedMain] [61] [INFO ] Started DebSpringbootMsApplication in 5.582 seconds (JVM running for 7.349)
+[2021/06/26T13:03:01.001Z] [com.deb.ms.DebSpringbootMsApplication] [main] [12] [INFO ] this is a info message
+[2021/06/26T13:03:01.001Z] [com.deb.ms.DebSpringbootMsApplication] [main] [13] [WARN ] this is a warn message
+[2021/06/26T13:03:01.001Z] [com.deb.ms.DebSpringbootMsApplication] [main] [14] [ERROR] this is a error message
+[2021/06/26T13:03:01.001Z] [com.deb.ms.DebSpringbootMsApplication] [restartedMain] [12] [INFO ] this is a info message
+[2021/06/26T13:03:01.001Z] [com.deb.ms.DebSpringbootMsApplication] [restartedMain] [13] [WARN ] this is a warn message
+[2021/06/26T13:03:01.001Z] [com.deb.ms.DebSpringbootMsApplication] [restartedMain] [14] [ERROR] this is a error message
+[2021/06/26T13:03:02.002Z] [org.springframework.boot.StartupInfoLogger] [restartedMain] [55] [INFO ] Starting DebSpringbootMsApplication using Java 11.0.11 on M5-L-HZ2CFW2 with PID 16804 (C:\UBS\debashish\git_repo\deb-springboot-ms-repo\deb-springboot-ms\build\classes\java\main started by debashish.barik in C:\UBS\CW\java-demo\project-reactor)
+[2021/06/26T13:03:02.002Z] [org.springframework.boot.SpringApplication] [restartedMain] [660] [INFO ] No active profile set, falling back to default profiles: default
+[2021/06/26T13:03:02.002Z] [org.springframework.boot.logging.DeferredLog] [restartedMain] [255] [INFO ] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[2021/06/26T13:03:02.002Z] [org.springframework.boot.logging.DeferredLog] [restartedMain] [255] [INFO ] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[2021/06/26T13:03:05.005Z] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [restartedMain] [108] [INFO ] Tomcat initialized with port(s): 8080 (http)
+[2021/06/26T13:03:05.005Z] [org.apache.juli.logging.DirectJDKLog] [restartedMain] [173] [INFO ] Initializing ProtocolHandler ["http-nio-8080"]
+[2021/06/26T13:03:05.005Z] [org.apache.juli.logging.DirectJDKLog] [restartedMain] [173] [INFO ] Starting service [Tomcat]
+[2021/06/26T13:03:05.005Z] [org.apache.juli.logging.DirectJDKLog] [restartedMain] [173] [INFO ] Starting Servlet engine: [Apache Tomcat/9.0.39]
+[2021/06/26T13:03:05.005Z] [org.apache.juli.logging.DirectJDKLog] [restartedMain] [173] [INFO ] Initializing Spring embedded WebApplicationContext
+[2021/06/26T13:03:05.005Z] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] [restartedMain] [289] [INFO ] Root WebApplicationContext: initialization completed in 3178 ms
+[2021/06/26T13:03:06.006Z] [org.springframework.scheduling.concurrent.ExecutorConfigurationSupport] [restartedMain] [181] [INFO ] Initializing ExecutorService 'applicationTaskExecutor'
+[2021/06/26T13:03:06.006Z] [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer] [restartedMain] [58] [INFO ] LiveReload server is running on port 35729
+[2021/06/26T13:03:06.006Z] [org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver] [restartedMain] [58] [INFO ] Exposing 2 endpoint(s) beneath base path '/actuator'
+[2021/06/26T13:03:06.006Z] [org.apache.juli.logging.DirectJDKLog] [restartedMain] [173] [INFO ] Starting ProtocolHandler ["http-nio-8080"]
+[2021/06/26T13:03:06.006Z] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [restartedMain] [220] [INFO ] Tomcat started on port(s): 8080 (http) with context path ''
+[2021/06/26T13:03:06.006Z] [org.springframework.boot.StartupInfoLogger] [restartedMain] [61] [INFO ] Started DebSpringbootMsApplication in 5.418 seconds (JVM running for 6.604)
+[2021/06/26T14:09:59.059Z] [org.springframework.scheduling.concurrent.ExecutorConfigurationSupport] [Thread-5] [218] [INFO ] Shutting down ExecutorService 'applicationTaskExecutor'
+[2021/06/26T14:10:02.002Z] [com.deb.ms.DebSpringbootMsApplication] [main] [18] [INFO ] this is a info message
+[2021/06/26T14:10:02.002Z] [com.deb.ms.DebSpringbootMsApplication] [main] [19] [WARN ] this is a warn message
+[2021/06/26T14:10:02.002Z] [com.deb.ms.DebSpringbootMsApplication] [main] [20] [ERROR] this is a error message
+[2021/06/26T14:10:03.003Z] [com.deb.ms.DebSpringbootMsApplication] [restartedMain] [18] [INFO ] this is a info message
+[2021/06/26T14:10:03.003Z] [com.deb.ms.DebSpringbootMsApplication] [restartedMain] [19] [WARN ] this is a warn message
+[2021/06/26T14:10:03.003Z] [com.deb.ms.DebSpringbootMsApplication] [restartedMain] [20] [ERROR] this is a error message
+[2021/06/26T14:10:04.004Z] [org.springframework.boot.StartupInfoLogger] [restartedMain] [55] [INFO ] Starting DebSpringbootMsApplication using Java 11.0.11 on M5-L-HZ2CFW2 with PID 23696 (C:\UBS\debashish\git_repo\deb-springboot-ms-repo\deb-springboot-ms\build\classes\java\main started by debashish.barik in C:\UBS\CW\java-demo\project-reactor)
+[2021/06/26T14:10:04.004Z] [org.springframework.boot.SpringApplication] [restartedMain] [660] [INFO ] No active profile set, falling back to default profiles: default
+[2021/06/26T14:10:04.004Z] [org.springframework.boot.logging.DeferredLog] [restartedMain] [255] [INFO ] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[2021/06/26T14:10:04.004Z] [org.springframework.boot.logging.DeferredLog] [restartedMain] [255] [INFO ] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[2021/06/26T14:10:07.007Z] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [restartedMain] [108] [INFO ] Tomcat initialized with port(s): 8080 (http)
+[2021/06/26T14:10:07.007Z] [org.apache.juli.logging.DirectJDKLog] [restartedMain] [173] [INFO ] Initializing ProtocolHandler ["http-nio-8080"]
+[2021/06/26T14:10:07.007Z] [org.apache.juli.logging.DirectJDKLog] [restartedMain] [173] [INFO ] Starting service [Tomcat]
+[2021/06/26T14:10:07.007Z] [org.apache.juli.logging.DirectJDKLog] [restartedMain] [173] [INFO ] Starting Servlet engine: [Apache Tomcat/9.0.39]
+[2021/06/26T14:10:07.007Z] [org.apache.juli.logging.DirectJDKLog] [restartedMain] [173] [INFO ] Initializing Spring embedded WebApplicationContext
+[2021/06/26T14:10:07.007Z] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] [restartedMain] [289] [INFO ] Root WebApplicationContext: initialization completed in 3544 ms
+[2021/06/26T14:10:09.009Z] [org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver] [restartedMain] [58] [INFO ] Exposing 2 endpoint(s) beneath base path '/actuator'
+[2021/06/26T14:10:09.009Z] [springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping] [restartedMain] [69] [INFO ] Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+[2021/06/26T14:10:09.009Z] [org.springframework.scheduling.concurrent.ExecutorConfigurationSupport] [restartedMain] [181] [INFO ] Initializing ExecutorService 'applicationTaskExecutor'
+[2021/06/26T14:10:09.009Z] [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer] [restartedMain] [61] [WARN ] Unable to start LiveReload server
+[2021/06/26T14:10:09.009Z] [org.apache.juli.logging.DirectJDKLog] [restartedMain] [173] [INFO ] Starting ProtocolHandler ["http-nio-8080"]
+[2021/06/26T14:10:09.009Z] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [restartedMain] [220] [INFO ] Tomcat started on port(s): 8080 (http) with context path ''
+[2021/06/26T14:10:09.009Z] [springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper] [restartedMain] [147] [INFO ] Context refreshed
+[2021/06/26T14:10:09.009Z] [springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper] [restartedMain] [150] [INFO ] Found 1 custom documentation plugin(s)
+[2021/06/26T14:10:09.009Z] [springfox.documentation.spring.web.scanners.ApiListingReferenceScanner] [restartedMain] [41] [INFO ] Scanning for api listing references
+[2021/06/26T14:10:10.010Z] [org.springframework.boot.StartupInfoLogger] [restartedMain] [61] [INFO ] Started DebSpringbootMsApplication in 7.096 seconds (JVM running for 8.82)
+[2021/06/26T14:11:33.033Z] [org.apache.juli.logging.DirectJDKLog] [http-nio-8080-exec-1] [173] [INFO ] Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2021/06/26T14:11:33.033Z] [org.springframework.web.servlet.FrameworkServlet] [http-nio-8080-exec-1] [525] [INFO ] Initializing Servlet 'dispatcherServlet'
+[2021/06/26T14:11:33.033Z] [org.springframework.web.servlet.FrameworkServlet] [http-nio-8080-exec-1] [547] [INFO ] Completed initialization in 3 ms
+[2021/06/26T14:14:38.038Z] [com.deb.ms.DebSpringbootMsApplication] [main] [18] [INFO ] this is a info message
+[2021/06/26T14:14:38.038Z] [com.deb.ms.DebSpringbootMsApplication] [main] [19] [WARN ] this is a warn message
+[2021/06/26T14:14:38.038Z] [com.deb.ms.DebSpringbootMsApplication] [main] [20] [ERROR] this is a error message
+[2021/06/26T14:14:38.038Z] [com.deb.ms.DebSpringbootMsApplication] [restartedMain] [18] [INFO ] this is a info message
+[2021/06/26T14:14:38.038Z] [com.deb.ms.DebSpringbootMsApplication] [restartedMain] [19] [WARN ] this is a warn message
+[2021/06/26T14:14:38.038Z] [com.deb.ms.DebSpringbootMsApplication] [restartedMain] [20] [ERROR] this is a error message
+[2021/06/26T14:14:39.039Z] [org.springframework.boot.StartupInfoLogger] [restartedMain] [55] [INFO ] Starting DebSpringbootMsApplication using Java 11.0.11 on M5-L-HZ2CFW2 with PID 20588 (C:\UBS\debashish\git_repo\deb-springboot-ms-repo\deb-springboot-ms\build\classes\java\main started by debashish.barik in C:\UBS\CW\java-demo\project-reactor)
+[2021/06/26T14:14:39.039Z] [org.springframework.boot.SpringApplication] [restartedMain] [660] [INFO ] No active profile set, falling back to default profiles: default
+[2021/06/26T14:14:39.039Z] [org.springframework.boot.logging.DeferredLog] [restartedMain] [255] [INFO ] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[2021/06/26T14:14:39.039Z] [org.springframework.boot.logging.DeferredLog] [restartedMain] [255] [INFO ] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[2021/06/26T14:14:43.043Z] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [restartedMain] [108] [INFO ] Tomcat initialized with port(s): 8080 (http)
+[2021/06/26T14:14:43.043Z] [org.apache.juli.logging.DirectJDKLog] [restartedMain] [173] [INFO ] Initializing ProtocolHandler ["http-nio-8080"]
+[2021/06/26T14:14:43.043Z] [org.apache.juli.logging.DirectJDKLog] [restartedMain] [173] [INFO ] Starting service [Tomcat]
+[2021/06/26T14:14:43.043Z] [org.apache.juli.logging.DirectJDKLog] [restartedMain] [173] [INFO ] Starting Servlet engine: [Apache Tomcat/9.0.39]
+[2021/06/26T14:14:44.044Z] [org.apache.juli.logging.DirectJDKLog] [restartedMain] [173] [INFO ] Initializing Spring embedded WebApplicationContext
+[2021/06/26T14:14:44.044Z] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] [restartedMain] [289] [INFO ] Root WebApplicationContext: initialization completed in 4249 ms
+[2021/06/26T14:14:44.044Z] [org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver] [restartedMain] [58] [INFO ] Exposing 2 endpoint(s) beneath base path '/actuator'
+[2021/06/26T14:14:45.045Z] [springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping] [restartedMain] [69] [INFO ] Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+[2021/06/26T14:14:45.045Z] [org.springframework.scheduling.concurrent.ExecutorConfigurationSupport] [restartedMain] [181] [INFO ] Initializing ExecutorService 'applicationTaskExecutor'
+[2021/06/26T14:14:45.045Z] [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer] [restartedMain] [58] [INFO ] LiveReload server is running on port 35729
+[2021/06/26T14:14:45.045Z] [org.apache.juli.logging.DirectJDKLog] [restartedMain] [173] [INFO ] Starting ProtocolHandler ["http-nio-8080"]
+[2021/06/26T14:14:45.045Z] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [restartedMain] [220] [INFO ] Tomcat started on port(s): 8080 (http) with context path ''
+[2021/06/26T14:14:45.045Z] [springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper] [restartedMain] [147] [INFO ] Context refreshed
+[2021/06/26T14:14:45.045Z] [springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper] [restartedMain] [150] [INFO ] Found 1 custom documentation plugin(s)
+[2021/06/26T14:14:45.045Z] [springfox.documentation.spring.web.scanners.ApiListingReferenceScanner] [restartedMain] [41] [INFO ] Scanning for api listing references
+[2021/06/26T14:14:45.045Z] [org.springframework.boot.StartupInfoLogger] [restartedMain] [61] [INFO ] Started DebSpringbootMsApplication in 7.114 seconds (JVM running for 8.645)
+[2021/06/26T14:14:53.053Z] [org.apache.juli.logging.DirectJDKLog] [http-nio-8080-exec-1] [173] [INFO ] Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2021/06/26T14:14:53.053Z] [org.springframework.web.servlet.FrameworkServlet] [http-nio-8080-exec-1] [525] [INFO ] Initializing Servlet 'dispatcherServlet'
+[2021/06/26T14:14:53.053Z] [org.springframework.web.servlet.FrameworkServlet] [http-nio-8080-exec-1] [547] [INFO ] Completed initialization in 2 ms
+[2021/06/26T14:15:35.035Z] [org.springframework.scheduling.concurrent.ExecutorConfigurationSupport] [Thread-4] [218] [INFO ] Shutting down ExecutorService 'applicationTaskExecutor'
+[2021/06/26T14:15:36.036Z] [com.deb.ms.DebSpringbootMsApplication] [restartedMain] [18] [INFO ] this is a info message
+[2021/06/26T14:15:36.036Z] [com.deb.ms.DebSpringbootMsApplication] [restartedMain] [19] [WARN ] this is a warn message
+[2021/06/26T14:15:36.036Z] [com.deb.ms.DebSpringbootMsApplication] [restartedMain] [20] [ERROR] this is a error message
+[2021/06/26T14:15:36.036Z] [org.springframework.boot.StartupInfoLogger] [restartedMain] [55] [INFO ] Starting DebSpringbootMsApplication using Java 11.0.11 on M5-L-HZ2CFW2 with PID 20588 (C:\UBS\debashish\git_repo\deb-springboot-ms-repo\deb-springboot-ms\build\classes\java\main started by debashish.barik in C:\UBS\CW\java-demo\project-reactor)
+[2021/06/26T14:15:36.036Z] [org.springframework.boot.SpringApplication] [restartedMain] [660] [INFO ] No active profile set, falling back to default profiles: default
+[2021/06/26T14:15:38.038Z] [com.deb.ms.DebSpringbootMsApplication] [main] [18] [INFO ] this is a info message
+[2021/06/26T14:15:38.038Z] [com.deb.ms.DebSpringbootMsApplication] [main] [19] [WARN ] this is a warn message
+[2021/06/26T14:15:38.038Z] [com.deb.ms.DebSpringbootMsApplication] [main] [20] [ERROR] this is a error message
+[2021/06/26T14:15:38.038Z] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [restartedMain] [108] [INFO ] Tomcat initialized with port(s): 8080 (http)
+[2021/06/26T14:15:38.038Z] [org.apache.juli.logging.DirectJDKLog] [restartedMain] [173] [INFO ] Initializing ProtocolHandler ["http-nio-8080"]
+[2021/06/26T14:15:38.038Z] [org.apache.juli.logging.DirectJDKLog] [restartedMain] [173] [INFO ] Starting service [Tomcat]
+[2021/06/26T14:15:38.038Z] [org.apache.juli.logging.DirectJDKLog] [restartedMain] [173] [INFO ] Starting Servlet engine: [Apache Tomcat/9.0.39]
+[2021/06/26T14:15:38.038Z] [org.apache.juli.logging.DirectJDKLog] [restartedMain] [173] [INFO ] Initializing Spring embedded WebApplicationContext
+[2021/06/26T14:15:38.038Z] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] [restartedMain] [289] [INFO ] Root WebApplicationContext: initialization completed in 2443 ms
+[2021/06/26T14:15:39.039Z] [org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver] [restartedMain] [58] [INFO ] Exposing 2 endpoint(s) beneath base path '/actuator'
+[2021/06/26T14:15:39.039Z] [springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping] [restartedMain] [69] [INFO ] Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+[2021/06/26T14:15:39.039Z] [org.springframework.scheduling.concurrent.ExecutorConfigurationSupport] [restartedMain] [181] [INFO ] Initializing ExecutorService 'applicationTaskExecutor'
+[2021/06/26T14:15:39.039Z] [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer] [restartedMain] [58] [INFO ] LiveReload server is running on port 35729
+[2021/06/26T14:15:39.039Z] [com.deb.ms.DebSpringbootMsApplication] [restartedMain] [18] [INFO ] this is a info message
+[2021/06/26T14:15:39.039Z] [com.deb.ms.DebSpringbootMsApplication] [restartedMain] [19] [WARN ] this is a warn message
+[2021/06/26T14:15:39.039Z] [com.deb.ms.DebSpringbootMsApplication] [restartedMain] [20] [ERROR] this is a error message
+[2021/06/26T14:15:39.039Z] [org.apache.juli.logging.DirectJDKLog] [restartedMain] [173] [INFO ] Starting ProtocolHandler ["http-nio-8080"]
+[2021/06/26T14:15:39.039Z] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [restartedMain] [220] [INFO ] Tomcat started on port(s): 8080 (http) with context path ''
+[2021/06/26T14:15:39.039Z] [springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper] [restartedMain] [147] [INFO ] Context refreshed
+[2021/06/26T14:15:39.039Z] [springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper] [restartedMain] [150] [INFO ] Found 1 custom documentation plugin(s)
+[2021/06/26T14:15:39.039Z] [springfox.documentation.spring.web.scanners.ApiListingReferenceScanner] [restartedMain] [41] [INFO ] Scanning for api listing references
+[2021/06/26T14:15:39.039Z] [org.springframework.boot.StartupInfoLogger] [restartedMain] [61] [INFO ] Started DebSpringbootMsApplication in 3.525 seconds (JVM running for 62.213)
+[2021/06/26T14:15:39.039Z] [org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener] [restartedMain] [63] [INFO ] Condition evaluation unchanged
+[2021/06/26T14:15:40.040Z] [org.springframework.boot.StartupInfoLogger] [restartedMain] [55] [INFO ] Starting DebSpringbootMsApplication using Java 11.0.11 on M5-L-HZ2CFW2 with PID 1484 (C:\UBS\debashish\git_repo\deb-springboot-ms-repo\deb-springboot-ms\build\classes\java\main started by debashish.barik in C:\UBS\CW\java-demo\project-reactor)
+[2021/06/26T14:15:40.040Z] [org.springframework.boot.SpringApplication] [restartedMain] [660] [INFO ] No active profile set, falling back to default profiles: default
+[2021/06/26T14:15:40.040Z] [org.springframework.boot.logging.DeferredLog] [restartedMain] [255] [INFO ] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[2021/06/26T14:15:40.040Z] [org.springframework.boot.logging.DeferredLog] [restartedMain] [255] [INFO ] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[2021/06/26T14:15:41.041Z] [org.springframework.scheduling.concurrent.ExecutorConfigurationSupport] [Thread-8] [218] [INFO ] Shutting down ExecutorService 'applicationTaskExecutor'
+[2021/06/26T14:15:41.041Z] [com.deb.ms.DebSpringbootMsApplication] [restartedMain] [18] [INFO ] this is a info message
+[2021/06/26T14:15:41.041Z] [com.deb.ms.DebSpringbootMsApplication] [restartedMain] [19] [WARN ] this is a warn message
+[2021/06/26T14:15:41.041Z] [com.deb.ms.DebSpringbootMsApplication] [restartedMain] [20] [ERROR] this is a error message
+[2021/06/26T14:15:41.041Z] [org.springframework.boot.StartupInfoLogger] [restartedMain] [55] [INFO ] Starting DebSpringbootMsApplication using Java 11.0.11 on M5-L-HZ2CFW2 with PID 20588 (C:\UBS\debashish\git_repo\deb-springboot-ms-repo\deb-springboot-ms\build\classes\java\main started by debashish.barik in C:\UBS\CW\java-demo\project-reactor)
+[2021/06/26T14:15:41.041Z] [org.springframework.boot.SpringApplication] [restartedMain] [660] [INFO ] No active profile set, falling back to default profiles: default
+[2021/06/26T14:15:43.043Z] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [restartedMain] [108] [INFO ] Tomcat initialized with port(s): 8080 (http)
+[2021/06/26T14:15:43.043Z] [org.apache.juli.logging.DirectJDKLog] [restartedMain] [173] [INFO ] Initializing ProtocolHandler ["http-nio-8080"]
+[2021/06/26T14:15:43.043Z] [org.apache.juli.logging.DirectJDKLog] [restartedMain] [173] [INFO ] Starting service [Tomcat]
+[2021/06/26T14:15:43.043Z] [org.apache.juli.logging.DirectJDKLog] [restartedMain] [173] [INFO ] Starting Servlet engine: [Apache Tomcat/9.0.39]
+[2021/06/26T14:15:43.043Z] [org.apache.juli.logging.DirectJDKLog] [restartedMain] [173] [INFO ] Initializing Spring embedded WebApplicationContext
+[2021/06/26T14:15:43.043Z] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] [restartedMain] [289] [INFO ] Root WebApplicationContext: initialization completed in 1915 ms
+[2021/06/26T14:15:44.044Z] [org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver] [restartedMain] [58] [INFO ] Exposing 2 endpoint(s) beneath base path '/actuator'
+[2021/06/26T14:15:44.044Z] [springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping] [restartedMain] [69] [INFO ] Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+[2021/06/26T14:15:44.044Z] [org.springframework.scheduling.concurrent.ExecutorConfigurationSupport] [restartedMain] [181] [INFO ] Initializing ExecutorService 'applicationTaskExecutor'
+[2021/06/26T14:15:44.044Z] [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer] [restartedMain] [58] [INFO ] LiveReload server is running on port 35729
+[2021/06/26T14:15:44.044Z] [org.apache.juli.logging.DirectJDKLog] [restartedMain] [173] [INFO ] Starting ProtocolHandler ["http-nio-8080"]
+[2021/06/26T14:15:44.044Z] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [restartedMain] [220] [INFO ] Tomcat started on port(s): 8080 (http) with context path ''
+[2021/06/26T14:15:44.044Z] [springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper] [restartedMain] [147] [INFO ] Context refreshed
+[2021/06/26T14:15:44.044Z] [springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper] [restartedMain] [150] [INFO ] Found 1 custom documentation plugin(s)
+[2021/06/26T14:15:44.044Z] [springfox.documentation.spring.web.scanners.ApiListingReferenceScanner] [restartedMain] [41] [INFO ] Scanning for api listing references
+[2021/06/26T14:15:44.044Z] [org.springframework.boot.StartupInfoLogger] [restartedMain] [61] [INFO ] Started DebSpringbootMsApplication in 2.59 seconds (JVM running for 67.06)
+[2021/06/26T14:15:44.044Z] [org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener] [restartedMain] [63] [INFO ] Condition evaluation unchanged
+[2021/06/26T14:15:45.045Z] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [restartedMain] [108] [INFO ] Tomcat initialized with port(s): 8080 (http)
+[2021/06/26T14:15:45.045Z] [org.apache.juli.logging.DirectJDKLog] [restartedMain] [173] [INFO ] Initializing ProtocolHandler ["http-nio-8080"]
+[2021/06/26T14:15:45.045Z] [org.apache.juli.logging.DirectJDKLog] [restartedMain] [173] [INFO ] Starting service [Tomcat]
+[2021/06/26T14:15:45.045Z] [org.apache.juli.logging.DirectJDKLog] [restartedMain] [173] [INFO ] Starting Servlet engine: [Apache Tomcat/9.0.39]
+[2021/06/26T14:15:45.045Z] [org.apache.juli.logging.DirectJDKLog] [restartedMain] [173] [INFO ] Initializing Spring embedded WebApplicationContext
+[2021/06/26T14:15:45.045Z] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] [restartedMain] [289] [INFO ] Root WebApplicationContext: initialization completed in 4896 ms
+[2021/06/26T14:15:47.047Z] [org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver] [restartedMain] [58] [INFO ] Exposing 2 endpoint(s) beneath base path '/actuator'
+[2021/06/26T14:15:47.047Z] [springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping] [restartedMain] [69] [INFO ] Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+[2021/06/26T14:15:47.047Z] [org.springframework.scheduling.concurrent.ExecutorConfigurationSupport] [restartedMain] [181] [INFO ] Initializing ExecutorService 'applicationTaskExecutor'
+[2021/06/26T14:15:47.047Z] [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer] [restartedMain] [61] [WARN ] Unable to start LiveReload server
+[2021/06/26T14:15:48.048Z] [org.apache.juli.logging.DirectJDKLog] [restartedMain] [173] [INFO ] Starting ProtocolHandler ["http-nio-8080"]
+[2021/06/26T14:15:48.048Z] [org.springframework.context.support.AbstractApplicationContext] [restartedMain] [596] [WARN ] Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'; nested exception is org.springframework.boot.web.server.PortInUseException: Port 8080 is already in use
+[2021/06/26T14:15:48.048Z] [org.springframework.scheduling.concurrent.ExecutorConfigurationSupport] [restartedMain] [218] [INFO ] Shutting down ExecutorService 'applicationTaskExecutor'
+[2021/06/26T14:15:48.048Z] [org.apache.juli.logging.DirectJDKLog] [restartedMain] [173] [INFO ] Pausing ProtocolHandler ["http-nio-8080"]
+[2021/06/26T14:15:48.048Z] [org.apache.juli.logging.DirectJDKLog] [restartedMain] [173] [INFO ] Stopping service [Tomcat]
+[2021/06/26T14:15:48.048Z] [org.apache.juli.logging.DirectJDKLog] [restartedMain] [173] [INFO ] Stopping ProtocolHandler ["http-nio-8080"]
+[2021/06/26T14:15:48.048Z] [org.apache.juli.logging.DirectJDKLog] [restartedMain] [173] [INFO ] Destroying ProtocolHandler ["http-nio-8080"]
+[2021/06/26T14:15:48.048Z] [org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLoggingListener] [restartedMain] [136] [INFO ] 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+[2021/06/26T14:15:48.048Z] [org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter] [restartedMain] [40] [ERROR] 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8080 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8080 or configure this application to listen on another port.
+
+[2021/06/26T14:16:05.005Z] [com.deb.ms.DebSpringbootMsApplication] [main] [18] [INFO ] this is a info message
+[2021/06/26T14:16:05.005Z] [com.deb.ms.DebSpringbootMsApplication] [main] [19] [WARN ] this is a warn message
+[2021/06/26T14:16:05.005Z] [com.deb.ms.DebSpringbootMsApplication] [main] [20] [ERROR] this is a error message
+[2021/06/26T14:16:05.005Z] [com.deb.ms.DebSpringbootMsApplication] [restartedMain] [18] [INFO ] this is a info message
+[2021/06/26T14:16:05.005Z] [com.deb.ms.DebSpringbootMsApplication] [restartedMain] [19] [WARN ] this is a warn message
+[2021/06/26T14:16:05.005Z] [com.deb.ms.DebSpringbootMsApplication] [restartedMain] [20] [ERROR] this is a error message
+[2021/06/26T14:16:06.006Z] [org.springframework.boot.StartupInfoLogger] [restartedMain] [55] [INFO ] Starting DebSpringbootMsApplication using Java 11.0.11 on M5-L-HZ2CFW2 with PID 23792 (C:\UBS\debashish\git_repo\deb-springboot-ms-repo\deb-springboot-ms\build\classes\java\main started by debashish.barik in C:\UBS\CW\java-demo\project-reactor)
+[2021/06/26T14:16:06.006Z] [org.springframework.boot.SpringApplication] [restartedMain] [660] [INFO ] No active profile set, falling back to default profiles: default
+[2021/06/26T14:16:06.006Z] [org.springframework.boot.logging.DeferredLog] [restartedMain] [255] [INFO ] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[2021/06/26T14:16:06.006Z] [org.springframework.boot.logging.DeferredLog] [restartedMain] [255] [INFO ] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[2021/06/26T14:16:10.010Z] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [restartedMain] [108] [INFO ] Tomcat initialized with port(s): 8080 (http)
+[2021/06/26T14:16:10.010Z] [org.apache.juli.logging.DirectJDKLog] [restartedMain] [173] [INFO ] Initializing ProtocolHandler ["http-nio-8080"]
+[2021/06/26T14:16:10.010Z] [org.apache.juli.logging.DirectJDKLog] [restartedMain] [173] [INFO ] Starting service [Tomcat]
+[2021/06/26T14:16:10.010Z] [org.apache.juli.logging.DirectJDKLog] [restartedMain] [173] [INFO ] Starting Servlet engine: [Apache Tomcat/9.0.39]
+[2021/06/26T14:16:11.011Z] [org.apache.juli.logging.DirectJDKLog] [restartedMain] [173] [INFO ] Initializing Spring embedded WebApplicationContext
+[2021/06/26T14:16:11.011Z] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] [restartedMain] [289] [INFO ] Root WebApplicationContext: initialization completed in 4644 ms
+[2021/06/26T14:16:12.012Z] [org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver] [restartedMain] [58] [INFO ] Exposing 2 endpoint(s) beneath base path '/actuator'
+[2021/06/26T14:16:12.012Z] [springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping] [restartedMain] [69] [INFO ] Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+[2021/06/26T14:16:13.013Z] [org.springframework.scheduling.concurrent.ExecutorConfigurationSupport] [restartedMain] [181] [INFO ] Initializing ExecutorService 'applicationTaskExecutor'
+[2021/06/26T14:16:13.013Z] [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer] [restartedMain] [58] [INFO ] LiveReload server is running on port 35729
+[2021/06/26T14:16:13.013Z] [org.apache.juli.logging.DirectJDKLog] [restartedMain] [173] [INFO ] Starting ProtocolHandler ["http-nio-8080"]
+[2021/06/26T14:16:13.013Z] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [restartedMain] [220] [INFO ] Tomcat started on port(s): 8080 (http) with context path ''
+[2021/06/26T14:16:13.013Z] [springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper] [restartedMain] [147] [INFO ] Context refreshed
+[2021/06/26T14:16:13.013Z] [springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper] [restartedMain] [150] [INFO ] Found 1 custom documentation plugin(s)
+[2021/06/26T14:16:13.013Z] [springfox.documentation.spring.web.scanners.ApiListingReferenceScanner] [restartedMain] [41] [INFO ] Scanning for api listing references
+[2021/06/26T14:16:14.014Z] [org.springframework.boot.StartupInfoLogger] [restartedMain] [61] [INFO ] Started DebSpringbootMsApplication in 8.785 seconds (JVM running for 9.963)
+[2021/06/26T14:16:19.019Z] [org.apache.juli.logging.DirectJDKLog] [http-nio-8080-exec-1] [173] [INFO ] Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2021/06/26T14:16:19.019Z] [org.springframework.web.servlet.FrameworkServlet] [http-nio-8080-exec-1] [525] [INFO ] Initializing Servlet 'dispatcherServlet'
+[2021/06/26T14:16:19.019Z] [org.springframework.web.servlet.FrameworkServlet] [http-nio-8080-exec-1] [547] [INFO ] Completed initialization in 2 ms
+[2021/06/27T20:52:11.011Z] [org.springframework.scheduling.concurrent.ExecutorConfigurationSupport] [Thread-4] [218] [INFO ] Shutting down ExecutorService 'applicationTaskExecutor'
+[2021/06/27T20:52:12.012Z] [com.deb.ms.DebSpringbootMsApplication] [restartedMain] [18] [INFO ] this is a info message
+[2021/06/27T20:52:12.012Z] [com.deb.ms.DebSpringbootMsApplication] [restartedMain] [19] [WARN ] this is a warn message
+[2021/06/27T20:52:12.012Z] [com.deb.ms.DebSpringbootMsApplication] [restartedMain] [20] [ERROR] this is a error message
+[2021/06/27T20:52:12.012Z] [org.springframework.boot.StartupInfoLogger] [restartedMain] [55] [INFO ] Starting DebSpringbootMsApplication using Java 11.0.11 on M5-L-HZ2CFW2 with PID 23792 (C:\UBS\debashish\git_repo\deb-springboot-ms-repo\deb-springboot-ms\build\classes\java\main started by debashish.barik in C:\UBS\CW\java-demo\project-reactor)
+[2021/06/27T20:52:12.012Z] [org.springframework.boot.SpringApplication] [restartedMain] [660] [INFO ] No active profile set, falling back to default profiles: default
+[2021/06/27T20:52:14.014Z] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [restartedMain] [108] [INFO ] Tomcat initialized with port(s): 8080 (http)
+[2021/06/27T20:52:14.014Z] [org.apache.juli.logging.DirectJDKLog] [restartedMain] [173] [INFO ] Initializing ProtocolHandler ["http-nio-8080"]
+[2021/06/27T20:52:14.014Z] [org.apache.juli.logging.DirectJDKLog] [restartedMain] [173] [INFO ] Starting service [Tomcat]
+[2021/06/27T20:52:14.014Z] [org.apache.juli.logging.DirectJDKLog] [restartedMain] [173] [INFO ] Starting Servlet engine: [Apache Tomcat/9.0.39]
+[2021/06/27T20:52:14.014Z] [org.apache.juli.logging.DirectJDKLog] [restartedMain] [173] [INFO ] Initializing Spring embedded WebApplicationContext
+[2021/06/27T20:52:14.014Z] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] [restartedMain] [289] [INFO ] Root WebApplicationContext: initialization completed in 2187 ms
+[2021/06/27T20:52:14.014Z] [org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver] [restartedMain] [58] [INFO ] Exposing 2 endpoint(s) beneath base path '/actuator'
+[2021/06/27T20:52:15.015Z] [springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping] [restartedMain] [69] [INFO ] Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+[2021/06/27T20:52:15.015Z] [org.springframework.scheduling.concurrent.ExecutorConfigurationSupport] [restartedMain] [181] [INFO ] Initializing ExecutorService 'applicationTaskExecutor'
+[2021/06/27T20:52:15.015Z] [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer] [restartedMain] [58] [INFO ] LiveReload server is running on port 35729
+[2021/06/27T20:52:15.015Z] [org.apache.juli.logging.DirectJDKLog] [restartedMain] [173] [INFO ] Starting ProtocolHandler ["http-nio-8080"]
+[2021/06/27T20:52:15.015Z] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [restartedMain] [220] [INFO ] Tomcat started on port(s): 8080 (http) with context path ''
+[2021/06/27T20:52:15.015Z] [springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper] [restartedMain] [147] [INFO ] Context refreshed
+[2021/06/27T20:52:15.015Z] [springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper] [restartedMain] [150] [INFO ] Found 1 custom documentation plugin(s)
+[2021/06/27T20:52:15.015Z] [springfox.documentation.spring.web.scanners.ApiListingReferenceScanner] [restartedMain] [41] [INFO ] Scanning for api listing references
+[2021/06/27T20:52:15.015Z] [org.springframework.boot.StartupInfoLogger] [restartedMain] [61] [INFO ] Started DebSpringbootMsApplication in 3.045 seconds (JVM running for 110179.592)
+[2021/06/27T20:52:15.015Z] [org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener] [restartedMain] [63] [INFO ] Condition evaluation unchanged
+[2021/06/27T20:52:16.016Z] [com.deb.ms.DebSpringbootMsApplication] [main] [18] [INFO ] this is a info message
+[2021/06/27T20:52:16.016Z] [com.deb.ms.DebSpringbootMsApplication] [main] [19] [WARN ] this is a warn message
+[2021/06/27T20:52:16.016Z] [com.deb.ms.DebSpringbootMsApplication] [main] [20] [ERROR] this is a error message
+[2021/06/27T20:52:17.017Z] [org.springframework.scheduling.concurrent.ExecutorConfigurationSupport] [Thread-8] [218] [INFO ] Shutting down ExecutorService 'applicationTaskExecutor'
+[2021/06/27T20:52:17.017Z] [com.deb.ms.DebSpringbootMsApplication] [restartedMain] [18] [INFO ] this is a info message
+[2021/06/27T20:52:17.017Z] [com.deb.ms.DebSpringbootMsApplication] [restartedMain] [19] [WARN ] this is a warn message
+[2021/06/27T20:52:17.017Z] [com.deb.ms.DebSpringbootMsApplication] [restartedMain] [20] [ERROR] this is a error message
+[2021/06/27T20:52:17.017Z] [org.springframework.boot.StartupInfoLogger] [restartedMain] [55] [INFO ] Starting DebSpringbootMsApplication using Java 11.0.11 on M5-L-HZ2CFW2 with PID 23792 (C:\UBS\debashish\git_repo\deb-springboot-ms-repo\deb-springboot-ms\build\classes\java\main started by debashish.barik in C:\UBS\CW\java-demo\project-reactor)
+[2021/06/27T20:52:17.017Z] [org.springframework.boot.SpringApplication] [restartedMain] [660] [INFO ] No active profile set, falling back to default profiles: default
+[2021/06/27T20:52:17.017Z] [com.deb.ms.DebSpringbootMsApplication] [restartedMain] [18] [INFO ] this is a info message
+[2021/06/27T20:52:17.017Z] [com.deb.ms.DebSpringbootMsApplication] [restartedMain] [19] [WARN ] this is a warn message
+[2021/06/27T20:52:17.017Z] [com.deb.ms.DebSpringbootMsApplication] [restartedMain] [20] [ERROR] this is a error message
+[2021/06/27T20:52:18.018Z] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [restartedMain] [108] [INFO ] Tomcat initialized with port(s): 8080 (http)
+[2021/06/27T20:52:18.018Z] [org.apache.juli.logging.DirectJDKLog] [restartedMain] [173] [INFO ] Initializing ProtocolHandler ["http-nio-8080"]
+[2021/06/27T20:52:18.018Z] [org.springframework.boot.StartupInfoLogger] [restartedMain] [55] [INFO ] Starting DebSpringbootMsApplication using Java 11.0.11 on M5-L-HZ2CFW2 with PID 24024 (C:\UBS\debashish\git_repo\deb-springboot-ms-repo\deb-springboot-ms\build\classes\java\main started by debashish.barik in C:\UBS\CW\java-demo\project-reactor)
+[2021/06/27T20:52:18.018Z] [org.apache.juli.logging.DirectJDKLog] [restartedMain] [173] [INFO ] Starting service [Tomcat]
+[2021/06/27T20:52:18.018Z] [org.apache.juli.logging.DirectJDKLog] [restartedMain] [173] [INFO ] Starting Servlet engine: [Apache Tomcat/9.0.39]
+[2021/06/27T20:52:18.018Z] [org.springframework.boot.SpringApplication] [restartedMain] [660] [INFO ] No active profile set, falling back to default profiles: default
+[2021/06/27T20:52:18.018Z] [org.apache.juli.logging.DirectJDKLog] [restartedMain] [173] [INFO ] Initializing Spring embedded WebApplicationContext
+[2021/06/27T20:52:18.018Z] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] [restartedMain] [289] [INFO ] Root WebApplicationContext: initialization completed in 1407 ms
+[2021/06/27T20:52:18.018Z] [org.springframework.boot.logging.DeferredLog] [restartedMain] [255] [INFO ] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[2021/06/27T20:52:18.018Z] [org.springframework.boot.logging.DeferredLog] [restartedMain] [255] [INFO ] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[2021/06/27T20:52:18.018Z] [org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver] [restartedMain] [58] [INFO ] Exposing 2 endpoint(s) beneath base path '/actuator'
+[2021/06/27T20:52:19.019Z] [springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping] [restartedMain] [69] [INFO ] Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+[2021/06/27T20:52:19.019Z] [org.springframework.scheduling.concurrent.ExecutorConfigurationSupport] [restartedMain] [181] [INFO ] Initializing ExecutorService 'applicationTaskExecutor'
+[2021/06/27T20:52:19.019Z] [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer] [restartedMain] [58] [INFO ] LiveReload server is running on port 35729
+[2021/06/27T20:52:19.019Z] [org.apache.juli.logging.DirectJDKLog] [restartedMain] [173] [INFO ] Starting ProtocolHandler ["http-nio-8080"]
+[2021/06/27T20:52:19.019Z] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [restartedMain] [220] [INFO ] Tomcat started on port(s): 8080 (http) with context path ''
+[2021/06/27T20:52:19.019Z] [springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper] [restartedMain] [147] [INFO ] Context refreshed
+[2021/06/27T20:52:19.019Z] [springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper] [restartedMain] [150] [INFO ] Found 1 custom documentation plugin(s)
+[2021/06/27T20:52:19.019Z] [springfox.documentation.spring.web.scanners.ApiListingReferenceScanner] [restartedMain] [41] [INFO ] Scanning for api listing references
+[2021/06/27T20:52:19.019Z] [org.springframework.boot.StartupInfoLogger] [restartedMain] [61] [INFO ] Started DebSpringbootMsApplication in 2.184 seconds (JVM running for 110183.678)
+[2021/06/27T20:52:19.019Z] [org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener] [restartedMain] [63] [INFO ] Condition evaluation unchanged
+[2021/06/27T20:52:23.023Z] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [restartedMain] [108] [INFO ] Tomcat initialized with port(s): 8080 (http)
+[2021/06/27T20:52:23.023Z] [org.apache.juli.logging.DirectJDKLog] [restartedMain] [173] [INFO ] Initializing ProtocolHandler ["http-nio-8080"]
+[2021/06/27T20:52:23.023Z] [org.apache.juli.logging.DirectJDKLog] [restartedMain] [173] [INFO ] Starting service [Tomcat]
+[2021/06/27T20:52:23.023Z] [org.apache.juli.logging.DirectJDKLog] [restartedMain] [173] [INFO ] Starting Servlet engine: [Apache Tomcat/9.0.39]
+[2021/06/27T20:52:24.024Z] [org.apache.juli.logging.DirectJDKLog] [restartedMain] [173] [INFO ] Initializing Spring embedded WebApplicationContext
+[2021/06/27T20:52:24.024Z] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] [restartedMain] [289] [INFO ] Root WebApplicationContext: initialization completed in 5405 ms
+[2021/06/27T20:52:25.025Z] [org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver] [restartedMain] [58] [INFO ] Exposing 2 endpoint(s) beneath base path '/actuator'
+[2021/06/27T20:52:25.025Z] [springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping] [restartedMain] [69] [INFO ] Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+[2021/06/27T20:52:25.025Z] [org.springframework.scheduling.concurrent.ExecutorConfigurationSupport] [restartedMain] [181] [INFO ] Initializing ExecutorService 'applicationTaskExecutor'
+[2021/06/27T20:52:25.025Z] [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer] [restartedMain] [61] [WARN ] Unable to start LiveReload server
+[2021/06/27T20:52:26.026Z] [org.apache.juli.logging.DirectJDKLog] [restartedMain] [173] [INFO ] Starting ProtocolHandler ["http-nio-8080"]
+[2021/06/27T20:52:26.026Z] [org.springframework.context.support.AbstractApplicationContext] [restartedMain] [596] [WARN ] Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'; nested exception is org.springframework.boot.web.server.PortInUseException: Port 8080 is already in use
+[2021/06/27T20:52:26.026Z] [org.springframework.scheduling.concurrent.ExecutorConfigurationSupport] [restartedMain] [218] [INFO ] Shutting down ExecutorService 'applicationTaskExecutor'
+[2021/06/27T20:52:26.026Z] [org.apache.juli.logging.DirectJDKLog] [restartedMain] [173] [INFO ] Pausing ProtocolHandler ["http-nio-8080"]
+[2021/06/27T20:52:26.026Z] [org.apache.juli.logging.DirectJDKLog] [restartedMain] [173] [INFO ] Stopping service [Tomcat]
+[2021/06/27T20:52:26.026Z] [org.apache.juli.logging.DirectJDKLog] [restartedMain] [173] [INFO ] Stopping ProtocolHandler ["http-nio-8080"]
+[2021/06/27T20:52:26.026Z] [org.apache.juli.logging.DirectJDKLog] [restartedMain] [173] [INFO ] Destroying ProtocolHandler ["http-nio-8080"]
+[2021/06/27T20:52:26.026Z] [org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLoggingListener] [restartedMain] [136] [INFO ] 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+[2021/06/27T20:52:26.026Z] [org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter] [restartedMain] [40] [ERROR] 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8080 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8080 or configure this application to listen on another port.
+
+[2021/06/27T20:52:40.040Z] [org.apache.juli.logging.DirectJDKLog] [http-nio-8080-exec-2] [173] [INFO ] Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2021/06/27T20:52:40.040Z] [org.springframework.web.servlet.FrameworkServlet] [http-nio-8080-exec-2] [525] [INFO ] Initializing Servlet 'dispatcherServlet'
+[2021/06/27T20:52:40.040Z] [org.springframework.web.servlet.FrameworkServlet] [http-nio-8080-exec-2] [547] [INFO ] Completed initialization in 2 ms
+[2021/06/27T20:53:35.035Z] [com.deb.ms.DebSpringbootMsApplication] [main] [18] [INFO ] this is a info message
+[2021/06/27T20:53:35.035Z] [com.deb.ms.DebSpringbootMsApplication] [main] [19] [WARN ] this is a warn message
+[2021/06/27T20:53:35.035Z] [com.deb.ms.DebSpringbootMsApplication] [main] [20] [ERROR] this is a error message
+[2021/06/27T20:53:35.035Z] [com.deb.ms.DebSpringbootMsApplication] [restartedMain] [18] [INFO ] this is a info message
+[2021/06/27T20:53:35.035Z] [com.deb.ms.DebSpringbootMsApplication] [restartedMain] [19] [WARN ] this is a warn message
+[2021/06/27T20:53:35.035Z] [com.deb.ms.DebSpringbootMsApplication] [restartedMain] [20] [ERROR] this is a error message
+[2021/06/27T20:53:37.037Z] [org.springframework.boot.StartupInfoLogger] [restartedMain] [55] [INFO ] Starting DebSpringbootMsApplication using Java 11.0.11 on M5-L-HZ2CFW2 with PID 11964 (C:\UBS\debashish\git_repo\deb-springboot-ms-repo\deb-springboot-ms\build\classes\java\main started by debashish.barik in C:\UBS\CW\java-demo\project-reactor)
+[2021/06/27T20:53:37.037Z] [org.springframework.boot.SpringApplication] [restartedMain] [660] [INFO ] No active profile set, falling back to default profiles: default
+[2021/06/27T20:53:37.037Z] [org.springframework.boot.logging.DeferredLog] [restartedMain] [255] [INFO ] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[2021/06/27T20:53:37.037Z] [org.springframework.boot.logging.DeferredLog] [restartedMain] [255] [INFO ] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[2021/06/27T20:53:44.044Z] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [restartedMain] [108] [INFO ] Tomcat initialized with port(s): 8080 (http)
+[2021/06/27T20:53:44.044Z] [org.apache.juli.logging.DirectJDKLog] [restartedMain] [173] [INFO ] Initializing ProtocolHandler ["http-nio-8080"]
+[2021/06/27T20:53:44.044Z] [org.apache.juli.logging.DirectJDKLog] [restartedMain] [173] [INFO ] Starting service [Tomcat]
+[2021/06/27T20:53:44.044Z] [org.apache.juli.logging.DirectJDKLog] [restartedMain] [173] [INFO ] Starting Servlet engine: [Apache Tomcat/9.0.39]
+[2021/06/27T20:53:44.044Z] [org.apache.juli.logging.DirectJDKLog] [restartedMain] [173] [INFO ] Initializing Spring embedded WebApplicationContext
+[2021/06/27T20:53:44.044Z] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] [restartedMain] [289] [INFO ] Root WebApplicationContext: initialization completed in 7295 ms
+[2021/06/27T20:53:46.046Z] [org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver] [restartedMain] [58] [INFO ] Exposing 2 endpoint(s) beneath base path '/actuator'
+[2021/06/27T20:53:47.047Z] [springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping] [restartedMain] [69] [INFO ] Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+[2021/06/27T20:53:47.047Z] [org.springframework.scheduling.concurrent.ExecutorConfigurationSupport] [restartedMain] [181] [INFO ] Initializing ExecutorService 'applicationTaskExecutor'
+[2021/06/27T20:53:47.047Z] [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer] [restartedMain] [58] [INFO ] LiveReload server is running on port 35729
+[2021/06/27T20:53:47.047Z] [org.apache.juli.logging.DirectJDKLog] [restartedMain] [173] [INFO ] Starting ProtocolHandler ["http-nio-8080"]
+[2021/06/27T20:53:48.048Z] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [restartedMain] [220] [INFO ] Tomcat started on port(s): 8080 (http) with context path ''
+[2021/06/27T20:53:48.048Z] [springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper] [restartedMain] [147] [INFO ] Context refreshed
+[2021/06/27T20:53:48.048Z] [springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper] [restartedMain] [150] [INFO ] Found 1 custom documentation plugin(s)
+[2021/06/27T20:53:48.048Z] [springfox.documentation.spring.web.scanners.ApiListingReferenceScanner] [restartedMain] [41] [INFO ] Scanning for api listing references
+[2021/06/27T20:53:48.048Z] [org.springframework.boot.StartupInfoLogger] [restartedMain] [61] [INFO ] Started DebSpringbootMsApplication in 13.016 seconds (JVM running for 14.787)
+[2021/06/27T20:56:26.026Z] [org.apache.juli.logging.DirectJDKLog] [http-nio-8080-exec-1] [173] [INFO ] Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2021/06/27T20:56:26.026Z] [org.springframework.web.servlet.FrameworkServlet] [http-nio-8080-exec-1] [525] [INFO ] Initializing Servlet 'dispatcherServlet'
+[2021/06/27T20:56:26.026Z] [org.springframework.web.servlet.FrameworkServlet] [http-nio-8080-exec-1] [547] [INFO ] Completed initialization in 7 ms
+[2021/06/27T21:08:44.044Z] [com.deb.ms.DebSpringbootMsApplication] [main] [18] [INFO ] this is a info message
+[2021/06/27T21:08:44.044Z] [com.deb.ms.DebSpringbootMsApplication] [main] [19] [WARN ] this is a warn message
+[2021/06/27T21:08:44.044Z] [com.deb.ms.DebSpringbootMsApplication] [main] [20] [ERROR] this is a error message
+[2021/06/27T21:08:45.045Z] [com.deb.ms.DebSpringbootMsApplication] [restartedMain] [18] [INFO ] this is a info message
+[2021/06/27T21:08:45.045Z] [com.deb.ms.DebSpringbootMsApplication] [restartedMain] [19] [WARN ] this is a warn message
+[2021/06/27T21:08:45.045Z] [com.deb.ms.DebSpringbootMsApplication] [restartedMain] [20] [ERROR] this is a error message
+[2021/06/27T21:08:46.046Z] [org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter] [restartedMain] [40] [ERROR] 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+An attempt was made to call a method that does not exist. The attempt was made from the following location:
+
+    org.springframework.cloud.bootstrap.BootstrapApplicationListener.bootstrapServiceContext(BootstrapApplicationListener.java:161)
+
+The following method did not exist:
+
+    org.springframework.boot.builder.SpringApplicationBuilder.<init>([Ljava/lang/Object;)V
+
+The method's class, org.springframework.boot.builder.SpringApplicationBuilder, is available from the following locations:
+
+    jar:file:/C:/UBS/Software/gradle-6.0.1/caches/modules-2/files-2.1/org.springframework.boot/spring-boot/2.4.0/d8c0caa04526c8cc1dfcbb9c5badae3c99c49884/spring-boot-2.4.0.jar!/org/springframework/boot/builder/SpringApplicationBuilder.class
+
+The class hierarchy was loaded from the following locations:
+
+    org.springframework.boot.builder.SpringApplicationBuilder: file:/C:/UBS/Software/gradle-6.0.1/caches/modules-2/files-2.1/org.springframework.boot/spring-boot/2.4.0/d8c0caa04526c8cc1dfcbb9c5badae3c99c49884/spring-boot-2.4.0.jar
+
+
+Action:
+
+Correct the classpath of your application so that it contains a single, compatible version of org.springframework.boot.builder.SpringApplicationBuilder
+
+[2021/06/27T21:09:40.040Z] [com.deb.ms.DebSpringbootMsApplication] [main] [18] [INFO ] this is a info message
+[2021/06/27T21:09:40.040Z] [com.deb.ms.DebSpringbootMsApplication] [main] [19] [WARN ] this is a warn message
+[2021/06/27T21:09:40.040Z] [com.deb.ms.DebSpringbootMsApplication] [main] [20] [ERROR] this is a error message
+[2021/06/27T21:09:40.040Z] [com.deb.ms.DebSpringbootMsApplication] [restartedMain] [18] [INFO ] this is a info message
+[2021/06/27T21:09:40.040Z] [com.deb.ms.DebSpringbootMsApplication] [restartedMain] [19] [WARN ] this is a warn message
+[2021/06/27T21:09:40.040Z] [com.deb.ms.DebSpringbootMsApplication] [restartedMain] [20] [ERROR] this is a error message
+[2021/06/27T21:09:41.041Z] [org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter] [restartedMain] [40] [ERROR] 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+An attempt was made to call a method that does not exist. The attempt was made from the following location:
+
+    org.springframework.cloud.bootstrap.BootstrapApplicationListener.bootstrapServiceContext(BootstrapApplicationListener.java:161)
+
+The following method did not exist:
+
+    org.springframework.boot.builder.SpringApplicationBuilder.<init>([Ljava/lang/Object;)V
+
+The method's class, org.springframework.boot.builder.SpringApplicationBuilder, is available from the following locations:
+
+    jar:file:/C:/UBS/Software/gradle-6.0.1/caches/modules-2/files-2.1/org.springframework.boot/spring-boot/2.4.0/d8c0caa04526c8cc1dfcbb9c5badae3c99c49884/spring-boot-2.4.0.jar!/org/springframework/boot/builder/SpringApplicationBuilder.class
+
+The class hierarchy was loaded from the following locations:
+
+    org.springframework.boot.builder.SpringApplicationBuilder: file:/C:/UBS/Software/gradle-6.0.1/caches/modules-2/files-2.1/org.springframework.boot/spring-boot/2.4.0/d8c0caa04526c8cc1dfcbb9c5badae3c99c49884/spring-boot-2.4.0.jar
+
+
+Action:
+
+Correct the classpath of your application so that it contains a single, compatible version of org.springframework.boot.builder.SpringApplicationBuilder
+
+[2021/06/27T21:13:13.013Z] [com.deb.ms.DebSpringbootMsApplication] [main] [18] [INFO ] this is a info message
+[2021/06/27T21:13:13.013Z] [com.deb.ms.DebSpringbootMsApplication] [main] [19] [WARN ] this is a warn message
+[2021/06/27T21:13:13.013Z] [com.deb.ms.DebSpringbootMsApplication] [main] [20] [ERROR] this is a error message
+[2021/06/27T21:13:14.014Z] [com.deb.ms.DebSpringbootMsApplication] [restartedMain] [18] [INFO ] this is a info message
+[2021/06/27T21:13:14.014Z] [com.deb.ms.DebSpringbootMsApplication] [restartedMain] [19] [WARN ] this is a warn message
+[2021/06/27T21:13:14.014Z] [com.deb.ms.DebSpringbootMsApplication] [restartedMain] [20] [ERROR] this is a error message
+[2021/06/27T21:13:15.015Z] [org.springframework.boot.StartupInfoLogger] [restartedMain] [55] [INFO ] Starting DebSpringbootMsApplication using Java 11.0.11 on M5-L-HZ2CFW2 with PID 3996 (C:\UBS\debashish\git_repo\deb-springboot-ms-repo\deb-springboot-ms\build\classes\java\main started by debashish.barik in C:\UBS\CW\java-demo\project-reactor)
+[2021/06/27T21:13:15.015Z] [org.springframework.boot.SpringApplication] [restartedMain] [660] [INFO ] No active profile set, falling back to default profiles: default
+[2021/06/27T21:13:15.015Z] [org.springframework.boot.logging.DeferredLog] [restartedMain] [255] [INFO ] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[2021/06/27T21:13:15.015Z] [org.springframework.boot.logging.DeferredLog] [restartedMain] [255] [INFO ] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[2021/06/27T21:13:20.020Z] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [restartedMain] [108] [INFO ] Tomcat initialized with port(s): 8080 (http)
+[2021/06/27T21:13:20.020Z] [org.apache.juli.logging.DirectJDKLog] [restartedMain] [173] [INFO ] Initializing ProtocolHandler ["http-nio-8080"]
+[2021/06/27T21:13:20.020Z] [org.apache.juli.logging.DirectJDKLog] [restartedMain] [173] [INFO ] Starting service [Tomcat]
+[2021/06/27T21:13:20.020Z] [org.apache.juli.logging.DirectJDKLog] [restartedMain] [173] [INFO ] Starting Servlet engine: [Apache Tomcat/9.0.39]
+[2021/06/27T21:13:20.020Z] [org.apache.juli.logging.DirectJDKLog] [restartedMain] [173] [INFO ] Initializing Spring embedded WebApplicationContext
+[2021/06/27T21:13:20.020Z] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] [restartedMain] [289] [INFO ] Root WebApplicationContext: initialization completed in 5104 ms
+[2021/06/27T21:13:21.021Z] [org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver] [restartedMain] [58] [INFO ] Exposing 2 endpoint(s) beneath base path '/actuator'
+[2021/06/27T21:13:22.022Z] [springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping] [restartedMain] [69] [INFO ] Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+[2021/06/27T21:13:22.022Z] [org.springframework.scheduling.concurrent.ExecutorConfigurationSupport] [restartedMain] [181] [INFO ] Initializing ExecutorService 'applicationTaskExecutor'
+[2021/06/27T21:13:22.022Z] [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer] [restartedMain] [58] [INFO ] LiveReload server is running on port 35729
+[2021/06/27T21:13:22.022Z] [org.apache.juli.logging.DirectJDKLog] [restartedMain] [173] [INFO ] Starting ProtocolHandler ["http-nio-8080"]
+[2021/06/27T21:13:22.022Z] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [restartedMain] [220] [INFO ] Tomcat started on port(s): 8080 (http) with context path ''
+[2021/06/27T21:13:22.022Z] [springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper] [restartedMain] [147] [INFO ] Context refreshed
+[2021/06/27T21:13:22.022Z] [springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper] [restartedMain] [150] [INFO ] Found 1 custom documentation plugin(s)
+[2021/06/27T21:13:23.023Z] [springfox.documentation.spring.web.scanners.ApiListingReferenceScanner] [restartedMain] [41] [INFO ] Scanning for api listing references
+[2021/06/27T21:13:23.023Z] [org.springframework.boot.StartupInfoLogger] [restartedMain] [61] [INFO ] Started DebSpringbootMsApplication in 8.9 seconds (JVM running for 10.687)
